@@ -1,0 +1,15 @@
+{
+  "name": "postcue",
+  "displayName": "Postcue",
+  "version": "1.0.0",
+  "description": "Plan social posts from your editor. Postcue reminds you on your phone at the right time with the frames and caption ready, and you post them yourself.",
+  "author": {
+    "name": "DK Digital Studios",
+    "email": "support@getpostcue.com"
+  },
+  "homepage": "https://getpostcue.com",
+  "repository": "https://github.com/dimeloper/postcue-plugin",
+  "license": "MIT",
+  "keywords": ["social media", "scheduling", "instagram", "tiktok", "content", "reminders", "mcp"],
+  "logo": "assets/logo.svg"
+}
